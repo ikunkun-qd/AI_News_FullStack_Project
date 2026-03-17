@@ -1,0 +1,2 @@
+# AI_News_FullStack_Project
+基于Vue3+FastApi的AI聊天功能的新闻资讯全栈项目
